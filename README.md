@@ -1,6 +1,6 @@
 # Learning
 <hr>
-This is a test repo built for learning purposes (learning github)
+Author - "KRRISH AJMERA"
 <hr>
 <br>
-Author - "KRRISH AJMERA"
+This is a test repo built for learning purposes (learning github)
